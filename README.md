@@ -1,3 +1,16 @@
+# Reto OT Consulting · Repositorio individual de Alexis Arrazola Jiménez (A01664015)
+
+| Etapa | Contenido | Dónde está |
+|---|---|---|
+| **Presentación de las Etapas 1 a 4** | Reto, requerimientos, métricas e indicadores, exploración, tratamiento, reglas de negocio, modelo dimensional y acciones futuras | [`Presentacion/Presentacion_Reto_OTC_Etapas_1a4.ipynb`](Presentacion/Presentacion_Reto_OTC_Etapas_1a4.ipynb) |
+| 2. Análisis y exploración de datos | Este README y el cuaderno de exploración | [`README.md`](#avance-reto-etapa-2--análisis-y-exploración-de-los-datos-ot-consulting), [`OTC_EDA.ipynb`](OTC_EDA.ipynb), [`Agregar_columnas/`](Agregar_columnas) |
+| 3. Tratamiento y acondicionamiento | ETL en Python: métodos M01–M11, bitácora, validaciones y 8 tablas limpias | [`Etapa3_Acondicionamiento/`](Etapa3_Acondicionamiento) |
+| 4. Modelo dimensional lógico | Modelo en estrella `HECHOS_ASIGNACION` con 6 dimensiones | [`Etapa4_Modelo_Dimensional/`](Etapa4_Modelo_Dimensional) |
+
+Los datos de OTC no se suben a este repositorio porque son información del socio formador.
+
+---
+
 # Avance Reto Etapa 2 – Análisis y Exploración de los Datos (OT Consulting)
 
 **Alumno:** Alexis Arrazola Jiménez – A01664015
