@@ -6,8 +6,9 @@
 | 2. Análisis y exploración de datos | Este README y el cuaderno de exploración | [`README.md`](#avance-reto-etapa-2--análisis-y-exploración-de-los-datos-ot-consulting), [`OTC_EDA.ipynb`](OTC_EDA.ipynb), [`Agregar_columnas/`](Agregar_columnas) |
 | 3. Tratamiento y acondicionamiento | ETL en Python: métodos M01–M11, bitácora, validaciones y 8 tablas limpias | [`OTC_Etapa3_Acondicionamiento.ipynb`](OTC_Etapa3_Acondicionamiento.ipynb) · [`Etapa3_Acondicionamiento.md`](Etapa3_Acondicionamiento.md) |
 | 4. Modelo dimensional lógico | Modelo en estrella `HECHOS_ASIGNACION` con 6 dimensiones | [`Etapa4_Modelo_Dimensional.md`](Etapa4_Modelo_Dimensional.md) · [`modelo_estrella.png`](modelo_estrella.png) |
+| 5. Consultas por dimensión y solución | Consultas SQL de las 9 dimensiones (MySQL), cuaderno de Python que las ejecuta, tablero de Power BI y documento para el socio formador | [`Etapa5_Dimensiones_datos_y_solucion.md`](Etapa5_Dimensiones_datos_y_solucion.md) · [`Etapa5_Consultas_por_dimension.ipynb`](Etapa5_Consultas_por_dimension.ipynb) · `00_cargar_datos.sql` a `90_dim_departamento.sql` · [`Tablero_etapa_5.pbix`](Tablero_etapa_5.pbix) |
 
-Los datos de OTC no se suben a este repositorio porque son información del socio formador.
+Los Excel originales de OTC no se suben. Desde la Etapa 5, `00_cargar_datos.sql` y `Tablero_etapa_5.pbix` incluyen los datos ya acondicionados del almacén.
 
 ---
 
